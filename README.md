@@ -90,6 +90,14 @@ The report describes the glove controller using the flex sensor, accelerometer a
 
 ---
 
+## 🧩 Block Diagram
+
+<p align="center">
+  <img src="block-diagram.jpeg" alt="Gesture Controlled Robot Block Diagram" width="950">
+</p>
+
+---
+
 ## 🏗️ System Architecture
 
 ```text
